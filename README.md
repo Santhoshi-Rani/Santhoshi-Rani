@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Advanced Deep Learning solutions for robust security threat detection**
 
-- 📫 How to reach me **datascientistsanthoshi@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/sammidi-santhoshi-rani-aspiring-data-scientist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
